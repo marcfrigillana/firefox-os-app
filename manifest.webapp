@@ -1,0 +1,14 @@
+{
+  "name": "Events Chart",
+  "description": "Various geek events in the Philippines listed in one place.",
+  "launch_path": "/",
+  "icons": {
+    "512": "/img/icon-512.png",
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Team Deremoe",
+    "url": "http://deremoe.com"
+  },
+  "default_locale": "en"
+}
