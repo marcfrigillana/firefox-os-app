@@ -11,4 +11,6 @@
     "url": "http://deremoe.com"
   },
   "default_locale": "en"
+  "orientation": "portrait-primary"
+  "version": "0.1"
 }
